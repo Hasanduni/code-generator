@@ -1,8 +1,7 @@
-pip==24.3.1
 transformers==4.28.0
-tokenizers==0.12.1
+tokenizers==0.12.1  
 torch==2.2.0  
-gradio==3.0.0
-pyngrok==5.2.0
-streamlit==1.13.0
+gradio
+pyngrok
+streamlit
 accelerate>=0.26.0
