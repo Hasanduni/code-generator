@@ -3,3 +3,4 @@ torch
 gradio
 pyngrok
 streamlit
+accelerate>=0.26.0
